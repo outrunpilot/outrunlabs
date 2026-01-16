@@ -5,7 +5,7 @@ human-factors, and architectural implications of deploying AI inference
 hardware (e.g., accelerators) onboard commercial aircraft.
 
 The focus is not on algorithms, but on:
-- future of ai driven flight decks
+- future of AI-driven flight decks
 - operational timing and trust
 - avionics constraints
 - failure modes and human-machine interaction
